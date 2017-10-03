@@ -7108,5 +7108,101 @@
         ],
         "mainFile": "__tests__/mocks/FakeIcon.js",
         "origin": "AUTHORED"
+    },
+    "visualization/chart": {
+        "files": [
+            {
+                "relativePath": "src/js/components/chart/Area.js",
+                "test": false,
+                "name": "Area.js"
+            },
+            {
+                "relativePath": "__tests__/components/Chart-test.js",
+                "test": true,
+                "name": "Chart-test.js"
+            },
+            {
+                "relativePath": "__tests__/components/__snapshots__/Chart-test.js.snap",
+                "test": false,
+                "name": "Chart-test.js.snap"
+            },
+            {
+                "relativePath": "src/js/components/chart/Axis.js",
+                "test": false,
+                "name": "Axis.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Bar.js",
+                "test": false,
+                "name": "Bar.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Base.js",
+                "test": false,
+                "name": "Base.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Chart.js",
+                "test": false,
+                "name": "Chart.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Graph.js",
+                "test": false,
+                "name": "Graph.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Grid.js",
+                "test": false,
+                "name": "Grid.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/HotSpots.js",
+                "test": false,
+                "name": "HotSpots.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/index.js",
+                "test": false,
+                "name": "index.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Layers.js",
+                "test": false,
+                "name": "Layers.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Line.js",
+                "test": false,
+                "name": "Line.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Marker.js",
+                "test": false,
+                "name": "Marker.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/MarkerLabel.js",
+                "test": false,
+                "name": "MarkerLabel.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/normalize.js",
+                "test": false,
+                "name": "normalize.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/Range.js",
+                "test": false,
+                "name": "Range.js"
+            },
+            {
+                "relativePath": "src/js/components/chart/utils.js",
+                "test": false,
+                "name": "utils.js"
+            }
+        ],
+        "origin": "AUTHORED",
+        "mainFile": "src/js/components/chart/index.js"
     }
 }
