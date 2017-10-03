@@ -1,0 +1,14 @@
+{
+    "env": {
+        "compiler": "bit.envs/compilers/react@5",
+        "tester": "bit.envs/testers/jest@13"
+    },
+    "dependencies": {},
+    "structure": {
+        "components": "components/{namespace}/{name}",
+        "dependencies": "components/.dependencies"
+    },
+    "dist": {
+        "target": "dist"
+    }
+}
